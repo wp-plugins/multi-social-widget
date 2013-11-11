@@ -1,4 +1,4 @@
-=== Like Dislike Counter===
+===Multi Social Widget===
 Contributors: tikendramaitry, rahulbrilliant2004, Nishant Jain, gunjan-rai
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfruits@gmail.com&item_name=Like%20Dislike%20Counter%20Lite&item_number=WordPress.org%20Donation&currency_code=USD&lc=US
 Tags: Multi Social Widget, pinterest, dribbble, flicker, instagram, widget, social widget, social widget
